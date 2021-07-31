@@ -3,9 +3,10 @@ body {
     text-align: center;
     font-size: large;
     font-style: normal;
-    margin: 100%;
-    padding: 50%;
-    width: 50%;
+    margin:50px;
+    padding: 100px;
+    width: 50px;
+    border: 100px;
     border-color: midnightblue;
     position: relative;
   }
