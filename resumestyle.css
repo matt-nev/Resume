@@ -1,15 +1,14 @@
 body {
     background-color: gainsboro;
   }
-  h1 {
-    color: red;
-    margin-left: 20px;
+h1 {
+    color: black;
   }
 .ContactInfo {
-    color: blueviolet
+    color: blue
 }
 .ProfessionalExperience {
-    color: green
+    color: yellow
 }
 .Certifications {
     color: orangered
