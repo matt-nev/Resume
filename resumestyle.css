@@ -1,7 +1,6 @@
 body {
     background-color: orange;
   }
-  
   h1 {
     color: red;
     margin-left: 20px;
@@ -12,11 +11,9 @@ body {
 .ProfessionalExpirience {
     color: green
 }
-
 .Certifications {
     color: orangered
 }
-
 .TechnicalSkills {
     color: purple
 }
