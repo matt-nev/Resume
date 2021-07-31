@@ -1,24 +1,40 @@
 body {
     background-color: gainsboro;
     text-align: center;
+    font-size: medium;
+    font-style: normal;
+    margin: auto;
+    padding: 0%;
+    width: auto;
+    border: midnightblue;
   }
 h1 {
     color: black;
     text-align: center;
+    font-size: medium;
+    font-style: normal;
   }
 .ContactInfo {
     color: navy;
     text-align: center;
+    font-size: large;
+    font-style: normal;
 }
 .ProfessionalExperience {
     color: darkgoldenrod;
     text-align: center;
+    font-size: medium;
+    font-style: normal;
 }
 .Certifications {
     color: orangered;
     text-align: center;
+    font-size: medium;
+    font-style: normal;
 }
 .TechnicalSkills {
     color: purple;
     text-align: center;
+    font-size: medium;
+    font-style: normal;
 }
