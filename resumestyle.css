@@ -7,18 +7,18 @@ h1 {
     text-align: center;
   }
 .ContactInfo {
-    color: navy
+    color: navy;
     text-align: center;
 }
 .ProfessionalExperience {
-    color: darkgoldenrod
+    color: darkgoldenrod;
     text-align: center;
 }
 .Certifications {
-    color: orangered
+    color: orangered;
     text-align: center;
 }
 .TechnicalSkills {
-    color: purple
+    color: purple;
     text-align: center;
 }
