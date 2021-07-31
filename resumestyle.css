@@ -8,7 +8,7 @@ body {
     width: 50px;
     border: 100px;
     border-color: midnightblue;
-    position: absolute;
+    position: relative;
   }
 h1 {
     color: black;
