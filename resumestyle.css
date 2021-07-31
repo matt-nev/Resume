@@ -3,9 +3,9 @@ body {
     text-align: center;
     font-size: large;
     font-style: normal;
-    margin:50px;
-    padding: 100px;
-    width: 50px;
+    margin:auto;
+    padding: auto;
+    width: auto;
     border: 100px;
     border-color: midnightblue;
     position: relative;
