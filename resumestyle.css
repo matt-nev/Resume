@@ -6,3 +6,17 @@ body {
     color: red;
     margin-left: 20px;
   }
+.ContactInfo{
+    color: blueviolet
+}
+.ProfessionalExpirience {
+    color: green
+}
+
+.Certifications {
+    color: orangered
+}
+
+.TechnicalSkills {
+    color: purple
+}
