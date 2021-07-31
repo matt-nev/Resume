@@ -3,10 +3,10 @@ body {
     text-align: center;
     font-size: large;
     font-style: normal;
-    margin: auto;
-    padding: 0%;
-    width: auto;
-    border: midnightblue;
+    margin: 100%;
+    padding: 50%;
+    width: 50%;
+    border-color: midnightblue;
     position: relative;
   }
 h1 {
